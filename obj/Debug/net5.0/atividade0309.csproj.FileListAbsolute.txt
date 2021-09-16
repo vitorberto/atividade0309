@@ -1,0 +1,16 @@
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/bin/Debug/net5.0/atividade0309
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/bin/Debug/net5.0/atividade0309.deps.json
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/bin/Debug/net5.0/atividade0309.runtimeconfig.json
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/bin/Debug/net5.0/atividade0309.runtimeconfig.dev.json
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/bin/Debug/net5.0/atividade0309.dll
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/bin/Debug/net5.0/ref/atividade0309.dll
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/bin/Debug/net5.0/atividade0309.pdb
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/obj/Debug/net5.0/atividade0309.csproj.AssemblyReference.cache
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/obj/Debug/net5.0/atividade0309.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/obj/Debug/net5.0/atividade0309.AssemblyInfoInputs.cache
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/obj/Debug/net5.0/atividade0309.AssemblyInfo.cs
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/obj/Debug/net5.0/atividade0309.csproj.CoreCompileInputs.cache
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/obj/Debug/net5.0/atividade0309.dll
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/obj/Debug/net5.0/ref/atividade0309.dll
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/obj/Debug/net5.0/atividade0309.pdb
+/home/vitomino/Programming/College/Semester4/ED/atividade0309/obj/Debug/net5.0/atividade0309.genruntimeconfig.cache
